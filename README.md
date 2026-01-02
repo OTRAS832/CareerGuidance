@@ -51,7 +51,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/OTRAS832/maawaabroitsolutions
-cd CareerGuidance
+cd maawaabroitsolutions
 ```
 
 ### 2. Install dependencies
