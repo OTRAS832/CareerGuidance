@@ -27,7 +27,7 @@ A high-performance, aesthetically pleasing platform designed to connect individu
 * **Routing**: [React Router DOM](https://reactrouter.com/)
 * **Smooth Scroll**: [@studio-freight/lenis](https://github.com/darkroomengineering/lenis)
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -44,7 +44,7 @@ A modern web application focused on career guidance, content delivery, and commu
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 Follow these steps to run the project locally.
 
@@ -82,7 +82,7 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 🎨 Customization
+## Customization
 
 - **Fonts**  
   Uses **Playfair Display** and **Plus Jakarta Sans**.  
@@ -98,7 +98,7 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
